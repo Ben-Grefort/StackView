@@ -32,8 +32,8 @@
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Stack Views" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VdM-9G-ARS">
-                                                <rect key="frame" x="128.33333333333337" y="128.66666666666674" width="141.66666666666663" height="105"/>
-                                                <fontDescription key="fontDescription" type="system" pointSize="27"/>
+                                                <rect key="frame" x="131" y="128.66666666666674" width="136.33333333333337" height="105"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="26"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
